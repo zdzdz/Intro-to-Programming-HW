@@ -1,0 +1,2 @@
+C# is programming language used for developing different software products. With C# we write the indtructions with which the computer does what we want him to do.
+.NET Framework is a combination of a compilator, tools and libraries. Compilator translates the programming language so that computer can understand and execute it. Tools and libraries helps us develop software easier.
