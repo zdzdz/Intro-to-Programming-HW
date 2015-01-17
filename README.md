@@ -1,2 +1,2 @@
 # Intro-to-Programming-HW
-CSharp Part 1 - Introduction to Programming Homework
+C# Part 1 - Introduction to Programming Homework
